@@ -6,8 +6,11 @@
 
 ## [Localidades][2]
 
+## Licencia 
+
+[MIT][3]
+
 [0]: datos/frentesParcelas/DESCRIPCION.md
 [1]: datos/provincias/DESCRIPCION.md
-[2]: datos/localidades/DESCRIPCION.md
-
-
+[2]: datos/localidades/DESCRIPCION.
+[3]: LICENCIA.md
