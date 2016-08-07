@@ -6,8 +6,8 @@
 
 ## [Localidades][2]
 
-[0] datos/frentesParcelas/DESCRIPCION.md
-[1] datos/provincias/DESCRIPCION.md
-[2] datos/localidades/DESCRIPCION.md
+[0]: datos/frentesParcelas/DESCRIPCION.md
+[1]: datos/provincias/DESCRIPCION.md
+[2]: datos/localidades/DESCRIPCION.md
 
 

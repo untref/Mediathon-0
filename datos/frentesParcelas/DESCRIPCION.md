@@ -4,9 +4,11 @@
 
 ### id 
 
+Número que identifica el registro de información
+
 ### clase
 
-```PARCELA```
+**PARCELA**
 
 ### dato_orige
 
