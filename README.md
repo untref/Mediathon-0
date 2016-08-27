@@ -28,6 +28,13 @@ Representar los datos generados junto con los especialistas informáticos con el
 
 Construir una noticia junto con la colaboración de los diseñadores gráficos y especialistas informáticos utilizando como materia prima los productos generados por los diseñadores e informáticos.
 
+## Qué materiale necesito para asistir al evento?
+
+1. Notebook *sugerido*
+2. Herramientas de desarrollo instaladas. Estas heramientas van a depender de la especialidad del participante. *sugerido* 
+3. Pendrives *recomendados*
+4. Cables de red *recomendados*
+ 
 ## Detalles de la actividad y reglas
 
 - Cada participante debe llevar sus propias herramientas.
