@@ -28,19 +28,29 @@ Representar los datos generados junto con los especialistas informáticos con el
 
 Construir una noticia junto con la colaboración de los diseñadores gráficos y especialistas informáticos utilizando como materia prima los productos generados por los diseñadores e informáticos.
 
+## Detalles de la actividad y reglas
+
+- Cada participante debe llevar sus propias herramientas.
+
+- Las herramientas utilizados por los desarrolladores deberán ser de [software libre](https://es.wikipedia.org/wiki/Software_libre).
+
+- Lo desarrollos que se evaluarán son aquellos que están subidos al repositorio público Mediathon-0 bajo un branch específico (en función del nombre del equipo).
+
+- El desarrollo deberá realizarse bajo la licencia de software libre MIT y su autoría le corresponderá a sus autores.
+
 ## Cronograma del Evento (tentativo)
 
 
-| Duración sugerida | Horarios         | Hito    |
-| ----------------- | --------         | ------- |
-| 30 minutos        | 09:00 - 09:30 hs | Acreditación de participantes |
-| 30 minutos        | 09:30 - 10:00 hs | Presentación del evento |
+| Duración sugerida | Horarios         | Hito                               |
+| ----------------- | --------         | -------                            |
+| 30 minutos        | 09:00 - 09:30 hs | Acreditación de participantes      |
+| 30 minutos        | 09:30 - 10:00 hs | Presentación del evento            |
 | 30 minutos        | 10:00 - 10:30 hs | Proposición de formación de equipos|
-| -                 | 10:30 - 14:00 hs | Periodo creativo - Primera Etapa |
-| 60 minutos        | 14:00 - 15:00 hs | Almuerzo (sugerido)|
-| -                 | 15:00 - 19:00 hs | Periodo creativo - Segunda Etapa|
-| 30 minutos        | 19:00 - 19:30 hs | Receso|
-| -                 | 19:30 - 20:30hs  | Puesta en común|
+| -                 | 10:30 - 14:00 hs | Periodo creativo - Primera Etapa   |
+| 60 minutos        | 14:00 - 15:00 hs | Almuerzo (sugerido)                |
+| -                 | 15:00 - 19:00 hs | Periodo creativo - Segunda Etapa   |
+| 30 minutos        | 19:00 - 19:30 hs | Receso                             |
+| -                 | 19:30 - 20:30hs  | Puesta en común                    |
 
 ## Dinámica del Evento
 
@@ -56,31 +66,38 @@ Los organizadores presentan el evento y describen sus expectativas acerca de los
 
 Aquí se provee un espacio para que los participantes puedan interactuar entre sí en vistas de conformar un grupo de trabajo interdisciplinario. Cada grupo deberá tener como mínimo un integrante por especialidad.
 Según sea necesario se proveerán herramientas para facilitar la conformación de equipos.
+Los grupos pueden ir variando dinámicamente a lo largo del evento (a juicio de sus miembros).
+
+## Período creativo #1
+
+Se prevee que los equipos trabajen con un dinámica auto definida. Períodos de trabaja, recesos, puestas en común se realizarán a criterio del grupo. 
+
+## Almuerzo
+
+Se prevee que los equipos utilicen este periodo como ellos crean conveniente.
+
+## Período creativo #2
+
+Se prevee que los equipos trabajen con un dinámica auto definida. Períodos de trabaja, recesos, puestas en común se realizarán a criterio del grupo. 
 
 ## Puesta en común
 
 A los efectos de evaluar la solución que mejor resuelve el problema y dado que varios aspectos de la solución son subjetivos se procederá de la siguiente manera:
 
+0. Se evaluaran los *branches* subídos al repo.
 1. Cada uno de los grupos deberán, previamente, haber subido su solución al repositorio que utilizaron como fuente del proyecto.
 2. Cada uno de los equipos presentará su solución. Cuánto debería durar esta presentación?
 3. Una vez que todos los grupos hayan expuesto cada grupo participante elegirá una solución que no sea la propia.
 4. La solución con más votos será la seleccionada.
 
 
-## Datos 
+## Datos necesarios para la actividad
 
-
-### [Frentes y Parcelas][0]
-
-### [Provincias][1]
-
-### [Localidades][2]
+[Workshop][4]
 
 ## Licencia 
 
 [MIT][3]
 
-[0]: datos/frentesParcelas/DESCRIPCION.md
-[1]: datos/provincias/DESCRIPCION.md
-[2]: datos/localidades/DESCRIPCION.
 [3]: LICENCIA.md
+[4]: WORKSHOP.md
