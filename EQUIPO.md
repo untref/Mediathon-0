@@ -2,9 +2,9 @@
 
 Este documento describe el equipo que plantea la solución al problema
 
-| Especialidad                | Nombre y Apellido     |
-| --------------------------- | --------------------- |
-| Especialidad del integrante | Mi nombre y apcellido |
+| Especialidad                | Nombre y Apellido     | Twitter | Facebook | Google+ | Otra red social |
+| --------------------------- | --------------------- | ------- | -------- | ------- | --------------- |
+| Especialidad del integrante | Mi nombre y apcellido |         |          |         |                 |
 
 ## Especialidades
 

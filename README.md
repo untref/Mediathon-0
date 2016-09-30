@@ -1,6 +1,6 @@
 # Mediathon-0
 
-En línea con el tema del 9° Encuentro Internacional NEOMediaLab, vamos a organizar una actividad colaborativa e interdisciplinaria destinada a programadores aficionados, estudiantes recibidos a próximos recibirse en  carreras afines a sistemas con conocimientos en técnicas de IA (Ingenieros en Computación, Ingenieros en Sistemas, Ciencias de la Computación), tecnólogos, diseñadores, periodistas, productores y comunicadores. El resultado será una muestra de lo que la inteligencia artificial tiene para ofrecer en la industria de los medios, tras la creación de una herramienta de reconocimiento de patrones en grandes volúmenes de datos y su correspondiente representación gráfica para así crear una noticia o relato a partir de estos datos.
+En línea con el tema del 9° Encuentro Internacional NEOMediaLab, vamos a organizar una actividad colaborativa e interdisciplinaria destinada a programadores aficionados, estudiantes recibidos o próximos a recibirse en  carreras afines a sistemas con conocimientos en técnicas de IA (Ingenieros en Computación, Ingenieros en Sistemas, Ciencias de la Computación), tecnólogos, diseñadores, periodistas, productores y comunicadores. El resultado será una muestra de lo que la inteligencia artificial tiene para ofrecer en la industria de los medios, tras la creación de una herramienta de reconocimiento de patrones en grandes volúmenes de datos y su correspondiente representación gráfica para así crear una noticia o relato a partir de estos datos.
 
 ## Objetivo del evento
 Establecer un vínculo entre el sector privado y la Universidad con el objetivo de fomentar la colaboración multidisciplinaria entre expertos en Informática, diseñadores gráficos y comunicadores; proveyendo un problema concreto que se plantea en el sector privado. 
@@ -11,16 +11,11 @@ Dado el carácter multidisciplinario de la actividad, desde la organización nos
 
 Crear vínculos profesionales entre especialistas de las áreas:
 
-- Diseño gráfico
-- Diseño UX
+- Diseño gráfico/UX
 - Comunicadores, periodistas
 - Informática
 
-### Objetivo técnico del evento (perspectiva informática)
-
-Traducir una dirección habitacional (Ej.: Av. Paseo Colón 850 - C1063ACV - Buenos Aires - Argentina) a una coordenada geo-espacial (latitud, longitud) (-34.617775, -58.368753) generando así un conjunto de datos normalizados y enriquecidos don latitud y longitud.
-
-### Objetivo técnico del evento (perspectiva diseñador gráfico)
+### Objetivo técnico del evento (perspectiva diseñador gráfico/UX)
 
 Representar los datos generados junto con los especialistas informáticos con el fin de poder observar la distribución espacial del conjunto de datos normalizado.
 
@@ -28,12 +23,16 @@ Representar los datos generados junto con los especialistas informáticos con el
 
 Construir una noticia junto con la colaboración de los diseñadores gráficos y especialistas informáticos utilizando como materia prima los productos generados por los diseñadores e informáticos.
 
+### Objetivo técnico del evento (perspectiva informática)
+
+Traducir una dirección habitacional (Ej.: Av. Paseo Colón 850 - C1063ACV - Buenos Aires - Argentina) a una coordenada geo-espacial (latitud, longitud) (-34.617775, -58.368753) generando así un conjunto de datos normalizados y enriquecidos con latitud y longitud.
+
 ## Qué materiale necesito para asistir al evento?
 
-1. Notebook *sugerido*
-2. Herramientas de desarrollo instaladas. Estas heramientas van a depender de la especialidad del participante. *sugerido* 
-3. Pendrives *recomendados*
-4. Cables de red *recomendados*
+1. Notebook *necesarios*
+2. Herramientas de desarrollo instaladas. Estas heramientas van a depender de la especialidad del participante. *necesarios* 
+3. Pendrives *sugeridos*
+4. Cables de red *sugeridos*
  
 ## Detalles de la actividad y reglas
 
@@ -77,7 +76,7 @@ Los grupos pueden ir variando dinámicamente a lo largo del evento (a juicio de 
 
 ## Período creativo #1
 
-Se prevee que los equipos trabajen con un dinámica auto definida. Períodos de trabaja, recesos, puestas en común se realizarán a criterio del grupo. 
+Se prevee que los equipos trabajen con un dinámica auto definida. Períodos de trabajo, recesos, puestas en común, etc.; se realizarán a criterio del grupo. 
 
 ## Almuerzo
 
@@ -85,7 +84,7 @@ Se prevee que los equipos utilicen este periodo como ellos crean conveniente.
 
 ## Período creativo #2
 
-Se prevee que los equipos trabajen con un dinámica auto definida. Períodos de trabaja, recesos, puestas en común se realizarán a criterio del grupo. 
+Se prevee que los equipos trabajen con un dinámica auto definida. Períodos de trabajo, recesos, puestas en común, etc.; se realizarán a criterio del grupo. 
 
 ## Puesta en común
 
@@ -93,7 +92,7 @@ A los efectos de evaluar la solución que mejor resuelve el problema y dado que 
 
 0. Se evaluaran los *branches* subídos al repo.
 1. Cada uno de los grupos deberán, previamente, haber subido su solución al repositorio que utilizaron como fuente del proyecto.
-2. Cada uno de los equipos presentará su solución. Cuánto debería durar esta presentación?
+2. Cada uno de los equipos presentará su solución. Cuánto debería durar esta presentación dependerá del número de grupos?
 3. Una vez que todos los grupos hayan expuesto cada grupo participante elegirá una solución que no sea la propia.
 4. La solución con más votos será la seleccionada.
 

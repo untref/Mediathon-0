@@ -1,25 +1,31 @@
 # Workshop
 
+## Descripción del Equipo
+
+Aquí encontrarán una plantilla para completar en la cual podrán especificar los integrantes del equipo que plantea la solución.
+
+[Equipo][4]
+
+Como sugerencia, completenla antes de comenzar con la actividad. Una vez completada les sugerimos que publiquen su solución en el repositorio público.
+
 ## Descripción de la actividad
 
 Traducir una dirección habitacional (Ej.: Av. Paseo Colón 850 - C1063ACV - Buenos Aires - Argentina) a una coordenada geo-espacial (latitud, longitud) (-34.617775, -58.368753) generando así un conjunto de datos normalizados y enriquecidos don latitud y longitud.
 
 ### Datos de origen
-| Nodo              | Tipo de dato     | Ejemplo                                   |Comentarios                        |
+| Evento              | Tipo de dato     | Ejemplo                                   |Comentarios                        |
 | ----------------- | --------         | -------                                   |-------                            |
 |Identidad          | String           | “507f1f77bcf86cd799439011”                |                                   |
 |Dirección          | String           | “Rocha 1264 1ero 4”                       | *Este campo no está normalizado.  |
 |Localidad Valor    | String           | “Capital Federa” o “CABA,” o “Cap. Fed.”  | *Este campo no está normalizado.  |
 |Provincia Valor    | String           | “Capital Federa” o “CABA”, o “Cap. Fed.”  | *Este campo no está normalizado.  |
-|Calle Entre A      | String           | “Hernandarias”                            | *Este campo no está normalizado.  |
-|Calle Entre B      | String           | “Av. Regimiento de Patricios”             | *Este campo no está normalizado.  |
 |Depende            | String           | “507f1f77bcf86cd799439198”                |                                   |
 
 * Este Campo no está Normalizado: Esto significa que los valores mostrados como ejemplos son algunas de las maneras en las cuales esta información puede ser provista.
 
 ### Resultados esperados
 
-| Nodo              | Tipo de dato     | Ejemplo                                   |Comentarios                        |
+| Evento              | Tipo de dato     | Ejemplo                                   |Comentarios                        |
 | ----------------- | --------         | -------                                   |-------                            |
 |Identidad          | String           | “507f1f77bcf86cd799439011”                |                                   |
 |Calle              | String           | “Rocha”                                   | *ver detalle                      |
@@ -28,8 +34,6 @@ Traducir una dirección habitacional (Ej.: Av. Paseo Colón 850 - C1063ACV - Bue
 |Depto              | String           | “4” o “B”                                 | *ver detalle                      |
 |Localidad Valor    | String           | “Capital Federa”                          | *ver detalle                      |
 |Provincia Valor    | String           | “Capital Federa”                          | *ver detalle                      |
-|Calle Entre A      | String           |  “Hernandarias”                           | *ver detalle                      |
-|Calle Entre B      | String           |  “Av. Regimiento de Patricios”            | *ver detalle                      |
 |Latitud            | Numero           |  -34.617775                               | *ver detalle                      |
 |Longitud           | Numero           |  -58.368753                               | *ver detalle                      | 
 
@@ -63,10 +67,11 @@ Los datos de latitud y longitud para cada una de las direcciones pueden encontra
 [MIT][3]
 
 ## Notas al pie
-1: <a name="#FuenteDatosParcela" href="http://data.buenosaires.gob.ar/">http://data.buenosaires.gob.ar/</a>
+1: Datos de parcelas públicos: <a name="#FuenteDatosParcela" href="http://data.buenosaires.gob.ar/">http://data.buenosaires.gob.ar/</a>
 
 [0]: datos/frentesParcelas/DESCRIPCION.md
 [1]: datos/provincias/DESCRIPCION.md
-[2]: datos/localidades/DESCRIPCION.
+[2]: datos/localidades/DESCRIPCION
 [3]: LICENCIA.md
+[4]: EQUIPO.md
 
