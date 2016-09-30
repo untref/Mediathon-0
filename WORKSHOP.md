@@ -8,6 +8,10 @@ Aquí encontrarán una plantilla para completar en la cual podrán especificar l
 
 Como sugerencia, completenla antes de comenzar con la actividad. Una vez completada les sugerimos que publiquen su solución en el repositorio público.
 
+## Donde colocamos nuestras producciones
+
+Para colocar todas las producciones existe una carpeta denominada ```propuesta``` donde el equipo puede subir todo el material generado.
+
 ## Descripción de la actividad
 
 Traducir una dirección habitacional (Ej.: Av. Paseo Colón 850 - C1063ACV - Buenos Aires - Argentina) a una coordenada geo-espacial (latitud, longitud) (-34.617775, -58.368753) generando así un conjunto de datos normalizados y enriquecidos don latitud y longitud.
