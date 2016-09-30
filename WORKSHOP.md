@@ -62,6 +62,19 @@ Los datos de latitud y longitud para cada una de las direcciones pueden encontra
 
 ### [Localidades][2]
 
+## Publicación de solución 
+
+La publicación de la propuesta prevee que todo el resultado de la colaboración interdisciplinaria quede registrado (públicamente) en el repositorio. Los resultados podrán ser: Assets, Código Fuentes, Modelos Gráficos, Discursos, etc. Es importante al momento de hacer esta publicación (que sugerímos que sea tempranamente aunque incompleta) completar dos archivos en particular: [EQUIPO][4] y [LICENCIA][3].
+
+### Pasos para descargar el workshop y subir la solución
+
+1. Hacer fork del repositorio [https://github.com/untref/Mediathon-0.git](https://github.com/untref/Mediathon-0.git)
+2. Clonar repositorio: ```git clone https://github.com/fiuba/Mediathon-0.git```
+3. Creación de una rama de trabajo: ```git checkout -b <nombre-equipo>```
+4. Completar y/o actualizar los archivos [EQUIPO][4] y [LICENCIA][3].
+5. Subir la solución al repo personal ```git push origin <nombre-equipo>/miPropuesta```
+6. Confeccionar un PR.
+
 ## Licencia 
 
 [MIT][3]
