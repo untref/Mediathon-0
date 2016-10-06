@@ -23,7 +23,7 @@ Traducir una dirección habitacional (Ej.: Av. Paseo Colón 850 - C1063ACV - Bue
 |Dirección          | String           | “Rocha 1264 1ero 4”                       | *Este campo no está normalizado.  |
 |Localidad Valor    | String           | “Capital Federa” o “CABA,” o “Cap. Fed.”  | *Este campo no está normalizado.  |
 |Provincia Valor    | String           | “Capital Federa” o “CABA”, o “Cap. Fed.”  | *Este campo no está normalizado.  |
-|Depende            | String           | “507f1f77bcf86cd799439198”                |                                   |
+|Sexo               | String           | "M" o "F"                                 |                                   |
 
 * Este Campo no está Normalizado: Esto significa que los valores mostrados como ejemplos son algunas de las maneras en las cuales esta información puede ser provista.
 
@@ -38,6 +38,7 @@ Traducir una dirección habitacional (Ej.: Av. Paseo Colón 850 - C1063ACV - Bue
 |Depto              | String           | “4” o “B”                                 | *ver detalle                      |
 |Localidad Valor    | String           | “Capital Federa”                          | *ver detalle                      |
 |Provincia Valor    | String           | “Capital Federa”                          | *ver detalle                      |
+|Sexo               | String           | "M" o "F"                                 |                                   |
 |Latitud            | Numero           |  -34.617775                               | *ver detalle                      |
 |Longitud           | Numero           |  -58.368753                               | *ver detalle                      | 
 
