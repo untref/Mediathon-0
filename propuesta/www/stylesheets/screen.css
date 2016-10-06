@@ -1,0 +1,215 @@
+/* line 5, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+
+/*------------------------------------*\
+    VARIABLES
+\*------------------------------------*/
+/*------------------------------------*\
+    BODY & STUFF
+\*------------------------------------*/
+/* line 19, ../sass/screen.scss */
+body {
+  background: #fff;
+  font-family: 'Roboto', arial, sans-serif;
+  color: #222;
+  letter-spacing: 0.05em;
+  line-height: 2;
+}
+
+/* line 27, ../sass/screen.scss */
+a, a:hover, a:focus {
+  text-decoration: none;
+}
+
+/* line 31, ../sass/screen.scss */
+a {
+  color: #222;
+}
+/* line 33, ../sass/screen.scss */
+a:hover {
+  color: red;
+}
+
+/* line 38, ../sass/screen.scss */
+header {
+  height: 600px;
+  background-position: center;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-image: url("../img/head.jpg");
+  background-color: aquamarine;
+  position: relative;
+  margin-bottom: 100px;
+}
+
+/* line 48, ../sass/screen.scss */
+h1 {
+  position: absolute;
+  font-size: 105px;
+  font-weight: 700;
+  width: 90%;
+  text-align: center;
+  left: 5%;
+  bottom: 100px;
+  color: white;
+  line-height: 1.1;
+  text-shadow: 0 0 50px rgba(0, 0, 0, 0.6);
+}
+
+/* line 61, ../sass/screen.scss */
+.medium {
+  width: 60%;
+  margin: 0 auto 60px;
+}
+
+/* line 66, ../sass/screen.scss */
+.large {
+  width: 80%;
+  margin: 0 auto 60px;
+}
+
+/* line 71, ../sass/screen.scss */
+.full {
+  width: 100%;
+  background-color: coral;
+  margin: 0 auto 60px;
+}
+
+/* line 77, ../sass/screen.scss */
+blockquote {
+  text-align: center;
+  font-size: 44px;
+  font-style: italic;
+  color: white;
+  padding: 40px 10%;
+}
+
+/* line 85, ../sass/screen.scss */
+.text {
+  font-size: 22px;
+  margin: 0 auto 60px;
+}
+/* line 88, ../sass/screen.scss */
+.text em {
+  font-style: italic;
+}
+/* line 91, ../sass/screen.scss */
+.text a {
+  color: coral;
+  text-decoration: underline;
+}
+
+/* line 97, ../sass/screen.scss */
+.firstpara {
+  font-size: 30px;
+  line-height: 1.8;
+  color: #888;
+}
+
+/* line 102, ../sass/screen.scss */
+.map {
+  width: 100%;
+  height: 800px;
+}
+
+/* line 107, ../sass/screen.scss */
+.caption {
+  text-align: center;
+  font-size: 20px;
+  line-height: 1.4;
+  font-style: italic;
+  color: coral;
+}
+
+/* line 115, ../sass/screen.scss */
+.poll {
+  font-size: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: coral;
+  margin: 0 auto 20px;
+}
+
+/* line 123, ../sass/screen.scss */
+.graphic {
+  text-align: center;
+}
+
+/* line 128, ../sass/screen.scss */
+form input {
+  width: 3em;
+  height: 3em;
+}
+/* line 132, ../sass/screen.scss */
+form label {
+  position: relative;
+  font-size: 30px;
+  top: -9px;
+  left: 9px;
+  font-weight: 700;
+  color: #888;
+}
