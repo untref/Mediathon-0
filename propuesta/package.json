@@ -1,0 +1,11 @@
+{
+  "name": "propuesta",
+  "version": "0.0.0",
+  "description": "Esta carpeta contendrá todas las producciones generadas por el equipo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
